@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.megadrupal.com	TRUE	/	FALSE	1999999999	__cfduid	d71d5c164e8106d3b90093129d19377b11612229922
+envato.megadrupal.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
